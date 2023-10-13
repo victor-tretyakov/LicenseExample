@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\works\LicenseExample\src\LicenseExample\..\..\bin\publish\</_PublishTargetUrl>
+    <History>True|2023-10-10T10:35:32.1582558Z;True|2023-10-10T13:34:54.6377282+03:00;True|2023-10-10T12:08:42.8730382+03:00;True|2023-10-10T11:52:31.0395952+03:00;True|2023-10-10T11:39:56.4287584+03:00;True|2023-10-10T11:33:44.1169354+03:00;False|2023-10-10T11:26:09.2400194+03:00;True|2023-10-10T10:52:34.9187340+03:00;True|2023-10-09T18:57:09.7761664+03:00;False|2023-10-09T18:57:01.1136032+03:00;True|2023-10-09T18:04:29.2089081+03:00;True|2023-10-09T18:03:51.0252872+03:00;False|2023-10-09T18:03:42.3607605+03:00;True|2023-10-09T17:56:51.5831507+03:00;True|2023-10-09T17:55:39.7902027+03:00;True|2023-10-09T17:51:30.9033034+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
